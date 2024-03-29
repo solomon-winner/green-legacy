@@ -1,0 +1,141 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon0871.ttf?ffb1c428f614c4f12303379dda5d0b32") format("truetype"),
+url("../fonts/flaticon0871.woff?ffb1c428f614c4f12303379dda5d0b32") format("woff"),
+url("../fonts/flaticon0871.woff2?ffb1c428f614c4f12303379dda5d0b32") format("woff2"),
+url("../fonts/flaticon0871.eot?ffb1c428f614c4f12303379dda5d0b32#iefix") format("embedded-opentype"),
+url("../fonts/flaticon0871.svg?ffb1c428f614c4f12303379dda5d0b32#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*="pbmit-greenify-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-greenify-icon-solar-panel:before {
+    content: "\f101";
+}
+.pbmit-greenify-icon-sun:before {
+    content: "\f102";
+}
+.pbmit-greenify-icon-tower:before {
+    content: "\f103";
+}
+.pbmit-greenify-icon-gas:before {
+    content: "\f104";
+}
+.pbmit-greenify-icon-plant:before {
+    content: "\f105";
+}
+.pbmit-greenify-icon-electricity:before {
+    content: "\f106";
+}
+.pbmit-greenify-icon-flask:before {
+    content: "\f107";
+}
+.pbmit-greenify-icon-plant-1:before {
+    content: "\f108";
+}
+.pbmit-greenify-icon-nuclear:before {
+    content: "\f109";
+}
+.pbmit-greenify-icon-eco-fuel:before {
+    content: "\f10a";
+}
+.pbmit-greenify-icon-growth:before {
+    content: "\f10b";
+}
+.pbmit-greenify-icon-shirt:before {
+    content: "\f10c";
+}
+.pbmit-greenify-icon-windmill:before {
+    content: "\f10d";
+}
+.pbmit-greenify-icon-barrel:before {
+    content: "\f10e";
+}
+.pbmit-greenify-icon-electric-car:before {
+    content: "\f10f";
+}
+.pbmit-greenify-icon-green-energy:before {
+    content: "\f110";
+}
+.pbmit-greenify-icon-greenhouse:before {
+    content: "\f111";
+}
+.pbmit-greenify-icon-lightbulb:before {
+    content: "\f112";
+}
+.pbmit-greenify-icon-light:before {
+    content: "\f113";
+}
+.pbmit-greenify-icon-save-water:before {
+    content: "\f114";
+}
+.pbmit-greenify-icon-fan:before {
+    content: "\f115";
+}
+.pbmit-greenify-icon-energy:before {
+    content: "\f116";
+}
+.pbmit-greenify-icon-light-bulb:before {
+    content: "\f117";
+}
+.pbmit-greenify-icon-electric-tower:before {
+    content: "\f118";
+}
+.pbmit-greenify-icon-pin-point:before {
+    content: "\f119";
+}
+.pbmit-greenify-icon-electric-car-1:before {
+    content: "\f11a";
+}
+.pbmit-greenify-icon-setting:before {
+    content: "\f11b";
+}
+.pbmit-greenify-icon-gas-cylinder:before {
+    content: "\f11c";
+}
+.pbmit-greenify-icon-wind-energy:before {
+    content: "\f11d";
+}
+.pbmit-greenify-icon-water-tap:before {
+    content: "\f11e";
+}
+.pbmit-greenify-icon-care:before {
+    content: "\f11f";
+}
+.pbmit-greenify-icon-solar-energy:before {
+    content: "\f120";
+}
+.pbmit-greenify-icon-battery:before {
+    content: "\f121";
+}
+.pbmit-greenify-icon-dustbin:before {
+    content: "\f122";
+}
+.pbmit-greenify-icon-garbage-truck:before {
+    content: "\f123";
+}
+.pbmit-greenify-icon-next:before {
+    content: "\f124";
+}
+.pbmit-greenify-icon-next-1:before {
+    content: "\f125";
+}
+.pbmit-greenify-icon-right-arrow:before {
+    content: "\f126";
+}
+.pbmit-greenify-icon-check-box:before {
+    content: "\f127";
+}
+.pbmit-greenify-icon-square:before {
+    content: "\f128";
+}
